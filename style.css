@@ -1,0 +1,64 @@
+.container-fluid a{
+  font-family: sans-serif;
+  font-weight: bolder;
+   color: white;
+}
+
+.mb-2 .col-md-6:hover{
+    transform: scale(0.9);
+    transition: all 0.2s linear;
+}
+
+.container-fluid a:hover{
+    color: rgb(67, 134, 0);
+    text-decoration: underline;
+}
+
+/* btn of best teacher  */
+
+.btn-secondary:hover{
+    background-color: black;
+}
+
+
+/* nav baar 1st page */
+
+.container-fluid .navbar-brand{
+    color: rgb(255, 255, 255);
+}
+
+.carousel-item .wel{
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+    box-shadow:  0px 3px 3px 3px rgb(0, 0, 0);
+} 
+
+.bolder{
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: rgb(61, 161, 255);
+    text-decoration: underline;
+}
+
+
+
+.abt-btn a{
+    padding: 7px 12px 7px 12px;
+    background-color: rgb(20, 20, 20);
+    color: rgb(0, 162, 255);
+    border: 2px solid black;
+    box-shadow: 2px 2px 10px 2px rgb(0, 132, 255);
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.abt-btn a:hover{
+    padding: 7px 12px 7px 12px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: 2px solid black;
+    box-shadow: 2px 2px 10px 2px #2589e7;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: bolder;
+}
